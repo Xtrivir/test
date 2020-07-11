@@ -20,9 +20,9 @@ export default function WorkSection() {
     <div className={classes.section}>
       <GridContainer justify="center">
         <GridItem cs={12} sm={12} md={8}>
-          <h2 className={classes.title}>Registrate y te avisaremos cuando lanzemos en Chile</h2>
+          <h2 className={classes.title}>Registrate Aqui</h2>
           <h4 className={classes.description}>
-            Dejanos tu email y te mantendremos al tanto. Dreamcatxer llegara muy pronto a Chile y tu podiras ser una de las primeras parejas!
+            Dejanos tu email y te mantendremos al tanto.
           </h4>
           <form>
             <GridContainer>
