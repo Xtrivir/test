@@ -59,11 +59,9 @@ function LandingPage(props) {
         <div className={classes.container}>
           <GridContainer>
             <GridItem xs={12} sm={12} md={6}>
-              <h1 className={classes.title}>ATRAPA TUS SUEÑOS Y HAZLOS REALIDAD</h1>
+              <h1 className={classes.title}>TITULO</h1>
               <h4>
-                Cada deseo que viaja en el universo puede ser escuchado por nosotros. 
-                Invita a tus amigos y familiares a ser parte de tus proyectos y anhelos
-                sin importar lo grande que estos sean.                
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nisl orci, iaculis eget ipsum eget, auctor rutrum nisl. Quisque facilisis sed ipsum in venenatis. Nam pellentesque ut nisl ac vehicula. In consectetur quis dui vel interdum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.             
               </h4>
             </GridItem>
           </GridContainer>
