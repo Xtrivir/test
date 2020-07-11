@@ -21,16 +21,12 @@ export default function ProductSection() {
     <div className={classes.section}>
       <GridContainer justify="center">
         <GridItem xs={12} sm={12} md={8}>
-          <h2 className={classes.title}>Como funciona</h2>
+          <h2 className={classes.title}>TITULO 2</h2>
           <h4 className={classes.description}>
-            Si eres de las parejas modernas que no le interesa la típica lista de novios 
-            que te deja el dinero atrapado en una tarjeta sino que quieres darle una intención diferente, 
-            prueba con nosotros, te depositamos los recaudado semanalmente en su cuenta corriente.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nisl orci, iaculis eget ipsum eget, auctor rutrum nisl. Quisque facilisis sed ipsum in venenatis. Nam pellentesque ut nisl ac vehicula. In consectetur quis dui vel interdum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
           </h4>
           <h4 className={classes.description}>
-            Dreamcatxer es una plataforma de regalos virtuales que te permite recibir 
-            el total de tus regalos dándole una intención diferente para que puedas 
-            hacer uso de lo recuadado cuando lo desees.
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nisl orci, iaculis eget ipsum eget, auctor rutrum nisl. Quisque facilisis sed ipsum in venenatis. Nam pellentesque ut nisl ac vehicula. In consectetur quis dui vel interdum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
           </h4>            
         </GridItem>
       </GridContainer>
@@ -38,8 +34,8 @@ export default function ProductSection() {
         <GridContainer>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
-              title="Crea tu list de sueños"
-              description="Crea tu lista de sueños (tenemos algunos pensado en ti pero en el caso que desees personalizarlos, puedes hacerlo agregándole un valor monetario) Una vez finalizada tu elección tendrás el total de regalos disponible."
+              title="SUBTITULO"
+              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nisl orci, iaculis eget ipsum eget, auctor rutrum nisl. Quisque facilisis sed ipsum in venenatis."
               icon={List}
               iconColor="rose"
               vertical
@@ -47,8 +43,8 @@ export default function ProductSection() {
           </GridItem>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
-              title="Tus seres queridos participan"
-              description="Invita a tus amigos y familiares a que compren sus sueños, esto no tiene un costo adicional para ti, se le realizará un recargo del 10% sobre el valor que tu coloques, tú recibirás el 100% de tu detalle."
+              title="SUBTITULO"
+              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nisl orci, iaculis eget ipsum eget, auctor rutrum nisl. Quisque facilisis sed ipsum in venenatis."
               icon={Group}
               iconColor="rose"
               vertical
@@ -56,8 +52,8 @@ export default function ProductSection() {
           </GridItem>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
-              title="Recibe dinero semanalmente"
-              description="Semanalmente depositaremos tu monto recudado en tu cuenta corriente para que puedas hacer uso de ello cuando lo desees."
+              title="SUBTITULO"
+              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nisl orci, iaculis eget ipsum eget, auctor rutrum nisl. Quisque facilisis sed ipsum in venenatis."
               icon={Money}
               iconColor="rose"
               vertical
