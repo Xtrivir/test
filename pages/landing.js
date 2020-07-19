@@ -46,7 +46,7 @@ function LandingPage(props) {
       <Header
         color="transparent"
         routes={dashboardRoutes}
-        brand="Dreamcatxer"
+        brand="BumerangData"
         rightLinks={<HeaderLinks />}
         fixed
         changeColorOnScroll={{
